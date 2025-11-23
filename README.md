@@ -68,3 +68,5 @@ A solução utiliza um microcontrolador **ESP32** simulado para capturar níveis
 
 Confira o funcionamento completo da solução IoT no link abaixo:
 * **[INSIRA O LINK DO YOUTUBE AQUI]**
+
+Link do projeto dentro do Wokwi: https://wokwi.com/projects/448112355220592641
