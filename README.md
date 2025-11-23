@@ -41,7 +41,7 @@ A solução utiliza um microcontrolador **ESP32** simulado para capturar níveis
 4.  **Ajuste de Integração:**
     * Abra o nó **`requisição http`**.
     * Atualize a URL com o IP Público atual da VM Linux na Azure:
-    * `http://<SEU_IP_PUBLICO>:8080/registros`
+    * `http://<SEU_IP_PUBLICO>:8080/registros` (No meu caso é 20.48.225.29)
 5.  Clique em **Deploy**.
 
 ---
